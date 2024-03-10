@@ -28,7 +28,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ## Pattern: Islands(Matrix Traversal)
-- [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
+- [X] https://leetcode.com/problems/number-of-islands/ (Blind) ```REVISIT```
 - [ ] https://leetcode.com/problems/max-area-of-island/
 - [ ] https://leetcode.com/problems/flood-fill/
 - [ ] https://leetcode.com/problems/number-of-closed-islands/
