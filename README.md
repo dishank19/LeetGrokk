@@ -32,9 +32,9 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/max-area-of-island/
 - [X] https://leetcode.com/problems/flood-fill/
 - [X] https://leetcode.com/problems/number-of-closed-islands/
-- [ ] https://leetcode.com/problems/island-perimeter/
-- [ ] https://leetcode.com/problems/number-of-distinct-islands/
-- [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
+- [X] https://leetcode.com/problems/island-perimeter/
+- [ ] https://leetcode.com/problems/number-of-distinct-islands/ ```PREMIUM```
+- [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/ ```REVISIT```
 ## Pattern: Two Pointers
 - [X] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [X] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
